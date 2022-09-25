@@ -15,9 +15,9 @@ iOS Native Swift Livestream App Backend
 
 [LiveD App](https://github.com/affkoul/swift-ios-livestream-app)
 
-## Signup and Login Auth
+## Signup and Login Auth Back-end
 
-[LiveD Auth](https://github.com/affkoul/swift-ios-livestream-app-auth)
+[LiveD Auth](https://github.com/affkoul/swift-ios-livestream-app-auth-backend)
 
 ## In Action
 
