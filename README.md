@@ -5,7 +5,7 @@ iOS Native Swift Livestream App Socket Backend
 
 2. Run npm install to install dependencies.
 
-3. Configure the server port properly.
+3. Open app.js, configure the server port and SSL KEY and CRT properly.
 
 4. Run node app.js to start the server.
 
