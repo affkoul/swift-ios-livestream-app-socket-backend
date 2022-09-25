@@ -15,6 +15,10 @@ iOS Native Swift Livestream App Backend
 
 [LiveD App](https://github.com/affkoul/swift-ios-livestream-app)
 
+## Signup and Login Auth
+
+[LiveD Auth](https://github.com/affkoul/swift-ios-livestream-app-auth)
+
 ## In Action
 
 ![GAC Logo](https://geniusandcourage.com/favicon.ico)
