@@ -1,5 +1,5 @@
-# swift-ios-livestream-app-backend
-iOS Native Swift Livestream App Backend
+# swift-ios-livestream-app-socket-backend
+iOS Native Swift Livestream App Socket Backend
 
 1. Clone this repository.
 
